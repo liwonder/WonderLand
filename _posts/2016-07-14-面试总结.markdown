@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "近期面试的一些总结"
+date:   2016-07-14 23:55:30 +0800
+categories: jekyll update
+---
